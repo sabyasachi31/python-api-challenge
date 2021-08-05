@@ -1,0 +1,4 @@
+#Three observable trends:
+1. As one move toward the equator, there is rise in average temperature and maximum temperature (from Temperature-Latitude plots)
+2. There is huge variability in cloudiness across all latitudes in both northern and southern hemispheres (from Cloudiness-Latitude plots)
+3. Humidity near the equator is high, whereas it is more variability as one moves away from the equator towards higher latitudes (from Humidity-Latitude plots)
